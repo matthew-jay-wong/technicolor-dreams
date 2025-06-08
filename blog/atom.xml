@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthew-jay-wong.github.io/technicolor-dreams/blog</id>
-    <title>My Site Blog</title>
+    <title>Technicolor Dreams Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://matthew-jay-wong.github.io/technicolor-dreams/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Technicolor Dreams Blog</subtitle>
     <icon>https://matthew-jay-wong.github.io/technicolor-dreams/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
